@@ -1,2 +1,2 @@
-# spring-boot
-this is my first spring boot project
+# Spring-boot
+This is my first spring-boot project
